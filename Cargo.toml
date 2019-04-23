@@ -1,0 +1,12 @@
+[package]
+name = "smbios"
+version = "0.1.0"
+authors = ["Zac Brown <zacbrown@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+CoreFoundation-sys = "0.1"
+dmidecode = "0.3"
+IOKit-sys = "0.1"
+mach = "0.2"
+scopeguard = "1.0"
