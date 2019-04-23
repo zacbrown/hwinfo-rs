@@ -3,6 +3,8 @@ name = "hwinfo"
 version = "0.1.0"
 authors = ["Zac Brown <zacbrown@users.noreply.github.com>"]
 edition = "2018"
+license = "MIT"
+description = "NOTE: INCOMPLETE. Friendlier interface to grabbing SMBIOS data from Windows, macOS, and Linux."
 
 [dependencies]
 CoreFoundation-sys = "0.1"
